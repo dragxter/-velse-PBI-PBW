@@ -1,3 +1,6 @@
 # Start på historien
-Anden gik en tur og landede på en sten og slog sig. 
+
+Anden gik en tur og landede på en sten og slog sig.
 Den blev helt forvirret over hvad der skete.
+
+# Dette bliver commited til 'Tobias-branch'
